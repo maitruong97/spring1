@@ -15,6 +15,8 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
             System.out.printf("Hello and welcome!");
+            System.out.println("ahihihiihi");
+            System.out.println("sadbaidvbaiusfhaus");
         }
     }
 }
