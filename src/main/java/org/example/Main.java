@@ -17,6 +17,7 @@ public class Main {
             System.out.printf("Hello and welcome!");
             System.out.println("ahihihiihi");
             System.out.println("sadbaidvbaiusfhaus");
+            System.out.println("i = " + i);
         }
     }
 }
